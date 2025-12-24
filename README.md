@@ -1,5 +1,5 @@
 <p align="center">
-  <!-- <img src="https://raw.githubusercontent.com/bikash1376/m3u/main/public/favicon.png)" alt="m3u_logo" width="40"/> -->
+  <img src="https://raw.githubusercontent.com/bikash1376/m3u/main/public/favicon.png" alt="m3u_logo" width="40"/>
   https://raw.githubusercontent.com/bikash1376/m3u/main/public/favicon.png
   <br/>
   <b style="font-size: 1.5em;">M3U Player</b>
