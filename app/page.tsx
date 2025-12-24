@@ -17,7 +17,7 @@ export default function Home() {
   const getChannels = async () => {
     setLoading(true)
     try {
-    const res = await fetch('http://localhost:3000/api/channels')
+    const res = await fetch('https://m3u-dun.vercel.app/api/channels')
     const list = await res.json()
     setChannels(list)
     }
